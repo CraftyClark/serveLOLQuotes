@@ -1,945 +1,474 @@
 [
     {
-    
-    "quoteText": "Time to troll!",
-    
-    "quoteAuthor": "Trundle"
-    
-    },
-    
-    {
-    
-    "quoteText": "Dead man walkin'",
-    
-    "quoteAuthor": "Graves"
-    
-    },
-    
-    {
-    
-    "quoteText": "Join the glorious evolution.",
-    
-    "quoteAuthor": "Viktor"
-    
-    },
-    
-    {
-    
-    "quoteText": "Only the spider is safe in her web.",
-    
-    "quoteAuthor": "Elise"
-    
-    },
-    
-    {
-    
-    "quoteText": "To battle!",
-    
-    "quoteAuthor": "Sivir"
-    
-    },
-    
-    {
-    
-    "quoteText": "I'm up to snuff, and gots me an ace machine!",
-    
-    "quoteAuthor": "Corki"
-    
-    },
-    
-    {
-    
-    "quoteText": "The guilty shall know agony.",
-    
-    "quoteAuthor": "Varus"
-    
-    },
-    
-    {
-    
-    "quoteText": "A guardian is always prepared.",
-    
-    "quoteAuthor": "Galio"
-    
-    },
-    
-    {
-    
-    "quoteText": "I do your bidding... for now...",
-    
-    "quoteAuthor": "Maokai"
-    
-    },
-    
-    {
-    
-    "quoteText": "The dawn has arrived.",
-    
-    "quoteAuthor": "Leona"
-    
-    },
-    
-    {
-    
-    "quoteText": "Tactical decision, summoner!",
-    
-    "quoteAuthor": "Lux"
-    
-    },
-    
-    {
-    
-    "quoteText": "On my wings.",
-    
-    "quoteAuthor": "Anivia"
-    
-    },
-    
-    {
-    
-    "quoteText": "Oblivion awaits.",
-    
-    "quoteAuthor": "Malzahar"
-    
+        "quoteText": "Time to troll!",
+        "quoteAuthor": "Trundle"
     },
-    
     {
-    
-    "quoteText": "You'd wish the world you know to end! Yesssss'    Cho",
-    
-    "quoteAuthor": "Gath"
-    
+        "quoteText": "Dead man walkin'",
+        "quoteAuthor": "Graves"
     },
-    
     {
-    
-    "quoteText": "Fired up and ready to serve.",
-    
-    "quoteAuthor": "Blitzcrank"
-    
+        "quoteText": "Join the glorious evolution.",
+        "quoteAuthor": "Viktor"
     },
-    
     {
-    
-    "quoteText": "Let the storm follow in my wake.",
-    
-    "quoteAuthor": "Volibear"
-    
+        "quoteText": "Only the spider is safe in her web.",
+        "quoteAuthor": "Elise"
     },
-    
     {
-    
-    "quoteText": "I will bury the world in ice.",
-    
-    "quoteAuthor": "Lissandra"
-    
+        "quoteText": "To battle!",
+        "quoteAuthor": "Sivir"
     },
-    
     {
-    
-    "quoteText": "The eyes never lie.",
-    
-    "quoteAuthor": "Kennen"
-    
+        "quoteText": "I'm up to snuff, and gots me an ace machine!",
+        "quoteAuthor": "Corki"
     },
-    
     {
-    
-    "quoteText": "Let me at 'em!",
-    
-    "quoteAuthor": "Fizz"
-    
+        "quoteText": "The guilty shall know agony.",
+        "quoteAuthor": "Varus"
     },
-    
     {
-    
-    "quoteText": "Our rage is beyond your control.",
-    
-    "quoteAuthor": "Udyr"
-    
+        "quoteText": "A guardian is always prepared.",
+        "quoteAuthor": "Galio"
     },
-    
     {
-    
-    "quoteText": "Trust nothing but your strength.",
-    
-    "quoteAuthor": "Sejuani"
-    
+        "quoteText": "I do your bidding... for now...",
+        "quoteAuthor": "Maokai"
     },
-    
     {
-    
-    "quoteText": "I decide what the tide will bring.",
-    
-    "quoteAuthor": "Nami"
-    
+        "quoteText": "The dawn has arrived.",
+        "quoteAuthor": "Leona"
     },
-    
     {
-    
-    "quoteText": "A demonstration of superior judgement.",
-    
-    "quoteAuthor": "Shen"
-    
+        "quoteText": "Tactical decision, summoner!",
+        "quoteAuthor": "Lux"
     },
-    
     {
-    
-    "quoteText": "Prepare to be boarded!",
-    
-    "quoteAuthor": "Gangplank"
-    
+        "quoteText": "On my wings.",
+        "quoteAuthor": "Anivia"
     },
-    
     {
-    
-    "quoteText": "Into the fray!",
-    
-    "quoteAuthor": "Kayle"
-    
+        "quoteText": "Oblivion awaits.",
+        "quoteAuthor": "Malzahar"
     },
-    
     {
-    
-    "quoteText": "They are nothing before me.",
-    
-    "quoteAuthor": "Shyvana"
-    
+        "quoteText": "You'd wish the world you know to end! Yesssss'    Cho",
+        "quoteAuthor": "Gath"
     },
-    
     {
-    
-    "quoteText": "What is broken CAN be reforged!",
-    
-    "quoteAuthor": "Riven"
-    
+        "quoteText": "Fired up and ready to serve.",
+        "quoteAuthor": "Blitzcrank"
     },
-    
     {
-    
-    "quoteText": "Let's make this fun.",
-    
-    "quoteAuthor": "Warwick"
-    
+        "quoteText": "Let the storm follow in my wake.",
+        "quoteAuthor": "Volibear"
     },
-    
     {
-    
-    "quoteText": "ok.",
-    
-    "quoteAuthor": "Rammus"
-    
+        "quoteText": "I will bury the world in ice.",
+        "quoteAuthor": "Lissandra"
     },
-    
     {
-    
-    "quoteText": "How about a magic trick?",
-    
-    "quoteAuthor": "Shaco"
-    
+        "quoteText": "The eyes never lie.",
+        "quoteAuthor": "Kennen"
     },
-    
     {
-    
-    "quoteText": "Let me guide you.",
-    
-    "quoteAuthor": "Soraka"
-    
+        "quoteText": "Let me at 'em!",
+        "quoteAuthor": "Fizz"
     },
-    
     {
-    
-    "quoteText": "As I live, all will die!",
-    
-    "quoteAuthor": "Renekton"
-    
+        "quoteText": "Our rage is beyond your control.",
+        "quoteAuthor": "Udyr"
     },
-    
     {
-    
-    "quoteText": "Your bidding, master.",
-    
-    "quoteAuthor": "Fiddlesticks"
-    
+        "quoteText": "Trust nothing but your strength.",
+        "quoteAuthor": "Sejuani"
     },
-    
     {
-    
-    "quoteText": "I shall bring great suffering!",
-    
-    "quoteAuthor": "Mordekaiser"
-    
+        "quoteText": "I decide what the tide will bring.",
+        "quoteAuthor": "Nami"
     },
-    
     {
-    
-    "quoteText": "This'll be a blast!",
-    
-    "quoteAuthor": "Ziggs"
-    
+        "quoteText": "A demonstration of superior judgement.",
+        "quoteAuthor": "Shen"
     },
-    
     {
-    
-    "quoteText": "They will regret opposing me.",
-    
-    "quoteAuthor": "Darius"
-    
+        "quoteText": "Prepare to be boarded!",
+        "quoteAuthor": "Gangplank"
     },
-    
     {
-    
-    "quoteText": "Nothing can hold me back!",
-    
-    "quoteAuthor": "Alistar"
-    
+        "quoteText": "Into the fray!",
+        "quoteAuthor": "Kayle"
     },
-    
     {
-    
-    "quoteText": "My blade is at your service.",
-    
-    "quoteAuthor": "Irelia"
-    
+        "quoteText": "They are nothing before me.",
+        "quoteAuthor": "Shyvana"
     },
-    
     {
-    
-    "quoteText": "Mundo!",
-    
-    "quoteAuthor": "Dr. Mundo"
-    
+        "quoteText": "What is broken CAN be reforged!",
+        "quoteAuthor": "Riven"
     },
-    
     {
-    
-    "quoteText": "Mundo!",
-    
-    "quoteAuthor": "Dr. Mundo"
-    
+        "quoteText": "Let's make this fun.",
+        "quoteAuthor": "Warwick"
     },
-    
     {
-    
-    "quoteText": "Welcome to the League of Draven!",
-    
-    "quoteAuthor": "Draven"
-    
+        "quoteText": "ok.",
+        "quoteAuthor": "Rammus"
     },
-    
     {
-    
-    "quoteText": "My stinger brings ugly death.",
-    
-    "quoteAuthor": "Skarner"
-    
+        "quoteText": "How about a magic trick?",
+        "quoteAuthor": "Shaco"
     },
-    
     {
-    
-    "quoteText": "More than just precious stones, I bring you an ancient power.",
-    
-    "quoteAuthor": "Taric"
-    
+        "quoteText": "Let me guide you.",
+        "quoteAuthor": "Soraka"
     },
-    
     {
-    
-    "quoteText": "Oh, what do you want?",
-    
-    "quoteAuthor": "Twitch"
-    
+        "quoteText": "As I live, all will die!",
+        "quoteAuthor": "Renekton"
     },
-    
     {
-    
-    "quoteText": "Change... is good.'       Kha",
-    
-    "quoteAuthor": "Zix"
-    
+        "quoteText": "Your bidding, master.",
+        "quoteAuthor": "Fiddlesticks"
     },
-    
     {
-    
-    "quoteText": "Pleased to meet you!",
-    
-    "quoteAuthor": "Lulu"
-    
+        "quoteText": "I shall bring great suffering!",
+        "quoteAuthor": "Mordekaiser"
     },
-    
     {
-    
-    "quoteText": "Lady Luck is smilin'.",
-    
-    "quoteAuthor": "Twisted Fate"
-    
+        "quoteText": "This'll be a blast!",
+        "quoteAuthor": "Ziggs"
     },
-    
     {
-    
-    "quoteText": "Indeed, a wise choice.",
-    
-    "quoteAuthor": "Heimerdinger"
-    
+        "quoteText": "They will regret opposing me.",
+        "quoteAuthor": "Darius"
     },
-    
     {
-    
-    "quoteText": "I long for a worthy opponent.",
-    
-    "quoteAuthor": "Fiora"
-    
+        "quoteText": "Nothing can hold me back!",
+        "quoteAuthor": "Alistar"
     },
-    
     {
-    
-    "quoteText": "Violence solves everything!",
-    
-    "quoteAuthor": "Katarina"
-    
+        "quoteText": "My blade is at your service.",
+        "quoteAuthor": "Irelia"
     },
-    
     {
-    
-    "quoteText": "Time for a true display of skill.",
-    
-    "quoteAuthor": "Ezreal"
-    
+        "quoteText": "Mundo!",
+        "quoteAuthor": "Dr. Mundo"
     },
-    
     {
-    
-    "quoteText": "All the world on one arrow.",
-    
-    "quoteAuthor": "Ashe"
-    
+        "quoteText": "Mundo!",
+        "quoteAuthor": "Dr. Mundo"
     },
-    
     {
-    
-    "quoteText": "The rivers will run red.",
-    
-    "quoteAuthor": "Vladimir"
-    
+        "quoteText": "Welcome to the League of Draven!",
+        "quoteAuthor": "Draven"
     },
-    
     {
-    
-    "quoteText": "Leave nothing behind!",
-    
-    "quoteAuthor": "Olaf"
-    
+        "quoteText": "My stinger brings ugly death.",
+        "quoteAuthor": "Skarner"
     },
-    
     {
-    
-    "quoteText": "Tonight we hunt!",
-    
-    "quoteAuthor": "Rengar"
-    
+        "quoteText": "More than just precious stones, I bring you an ancient power.",
+        "quoteAuthor": "Taric"
     },
-    
     {
-    
-    "quoteText": "Fortune doesn't favour fools!",
-    
-    "quoteAuthor": "Miss Fortune"
-    
+        "quoteText": "Oh, what do you want?",
+        "quoteAuthor": "Twitch"
     },
-    
     {
-    
-    "quoteText": "I was made for this... Literally.",
-    
-    "quoteAuthor": "Zac"
-    
+        "quoteText": "Change... is good.'       Kha",
+        "quoteAuthor": "Zix"
     },
-    
     {
-    
-    "quoteText": "My blade is yours.",
-    
-    "quoteAuthor": "Master Yi"
-    
+        "quoteText": "Pleased to meet you!",
+        "quoteAuthor": "Lulu"
     },
-    
     {
-    
-    "quoteText": "You wanna play, too? It'll be fun.",
-    
-    "quoteAuthor": "Annie"
-    
+        "quoteText": "Lady Luck is smilin'.",
+        "quoteAuthor": "Twisted Fate"
     },
-    
     {
-    
-    "quoteText": "The tempest is at your command.",
-    
-    "quoteAuthor": "Janna"
-    
+        "quoteText": "Indeed, a wise choice.",
+        "quoteAuthor": "Heimerdinger"
     },
-    
     {
-    
-    "quoteText": "Don't you trust me?",
-    
-    "quoteAuthor": "Ahri"
-    
+        "quoteText": "I long for a worthy opponent.",
+        "quoteAuthor": "Fiora"
     },
-    
     {
-    
-    "quoteText": "Here we go!",
-    
-    "quoteAuthor": "Nunu"
-    
+        "quoteText": "Violence solves everything!",
+        "quoteAuthor": "Katarina"
     },
-    
     {
-    
-    "quoteText": "THEY ARE PRIVELEDGED TO DIE AT MY FEET!",
-    
-    "quoteAuthor": "Pantheon"
-    
+        "quoteText": "Time for a true display of skill.",
+        "quoteAuthor": "Ezreal"
     },
-    
     {
-    
-    "quoteText": "So much untapped power!",
-    
-    "quoteAuthor": "Syndra"
-    
+        "quoteText": "All the world on one arrow.",
+        "quoteAuthor": "Ashe"
     },
-    
     {
-    
-    "quoteText": "Time to feast!'   Kog",
-    
-    "quoteAuthor": "Maw"
-    
+        "quoteText": "The rivers will run red.",
+        "quoteAuthor": "Vladimir"
     },
-    
     {
-    
-    "quoteText": "Embrace the darkness!",
-    
-    "quoteAuthor": "Nocturne"
-    
+        "quoteText": "Leave nothing behind!",
+        "quoteAuthor": "Olaf"
     },
-    
     {
-    
-    "quoteText": "By my will, this shall be finished.",
-    
-    "quoteAuthor": "Jarvan IV"
-    
+        "quoteText": "Tonight we hunt!",
+        "quoteAuthor": "Rengar"
     },
-    
     {
-    
-    "quoteText": "They will fear the wilds.",
-    
-    "quoteAuthor": "Nidalee"
-    
+        "quoteText": "Fortune doesn't favour fools!",
+        "quoteAuthor": "Miss Fortune"
     },
-    
     {
-    
-    "quoteText": "Beware the depths.",
-    
-    "quoteAuthor": "Nautilus"
-    
+        "quoteText": "I was made for this... Literally.",
+        "quoteAuthor": "Zac"
     },
-    
     {
-    
-    "quoteText": "The early bird guts the worm.",
-    
-    "quoteAuthor": "Swain"
-    
+        "quoteText": "My blade is yours.",
+        "quoteAuthor": "Master Yi"
     },
-    
     {
-    
-    "quoteText": "The balance of power must be preserved.",
-    
-    "quoteAuthor": "Kassadin"
-    
+        "quoteText": "You wanna play, too? It'll be fun.",
+        "quoteAuthor": "Annie"
     },
-    
     {
-    
-    "quoteText": "The unseen blade is the deadliest.",
-    
-    "quoteAuthor": "Zed"
-    
+        "quoteText": "The tempest is at your command.",
+        "quoteAuthor": "Janna"
     },
-    
     {
-    
-    "quoteText": "Your will, my hands.",
-    
-    "quoteAuthor": "Lee Sin"
-    
+        "quoteText": "Don't you trust me?",
+        "quoteAuthor": "Ahri"
     },
-    
     {
-    
-    "quoteText": "I will be the best!",
-    
-    "quoteAuthor": "Wukong"
-    
+        "quoteText": "Here we go!",
+        "quoteAuthor": "Nunu"
     },
-    
     {
-    
-    "quoteText": "I thought you'd never pick me.",
-    
-    "quoteAuthor": "Amumu"
-    
+        "quoteText": "THEY ARE PRIVELEDGED TO DIE AT MY FEET!",
+        "quoteAuthor": "Pantheon"
     },
-    
     {
-    
-    "quoteText": "I will be free.",
-    
-    "quoteAuthor": "Xerath"
-    
+        "quoteText": "So much untapped power!",
+        "quoteAuthor": "Syndra"
     },
-    
     {
-    
-    "quoteText": "Captain Teemo on duty!",
-    
-    "quoteAuthor": "Teemo"
-    
+        "quoteText": "Time to feast!'   Kog",
+        "quoteAuthor": "Maw"
     },
-    
     {
-    
-    "quoteText": "Know that if the tables were turned, I'd show you no mercy.",
-    
-    "quoteAuthor": "Veigar"
-    
+        "quoteText": "Embrace the darkness!",
+        "quoteAuthor": "Nocturne"
     },
-    
     {
-    
-    "quoteText": "I fight for a brighter tomorrow!",
-    
-    "quoteAuthor": "Jayce"
-    
+        "quoteText": "By my will, this shall be finished.",
+        "quoteAuthor": "Jarvan IV"
     },
-    
     {
-    
-    "quoteText": "I fight for a brighter tomorrow!",
-    
-    "quoteAuthor": "Jayce"
-    
+        "quoteText": "They will fear the wilds.",
+        "quoteAuthor": "Nidalee"
     },
-    
     {
-    
-    "quoteText": "We'll bring them pain!",
-    
-    "quoteAuthor": "Morgana"
-    
+        "quoteText": "Beware the depths.",
+        "quoteAuthor": "Nautilus"
     },
-    
     {
-    
-    "quoteText": "Only you can hear me summoner, what masterpiece shall we play today?",
-    
-    "quoteAuthor": "Sona"
-    
+        "quoteText": "The early bird guts the worm.",
+        "quoteAuthor": "Swain"
     },
-    
     {
-    
-    "quoteText": "I wanna shoot something.",
-    
-    "quoteAuthor": "Tristana"
-    
+        "quoteText": "The balance of power must be preserved.",
+        "quoteAuthor": "Kassadin"
     },
-    
     {
-    
-    "quoteText": "The Black Rose shall bloom once more!",
-    
-    "quoteAuthor": "LeBlanc"
-    
+        "quoteText": "The unseen blade is the deadliest.",
+        "quoteAuthor": "Zed"
     },
-    
     {
-    
-    "quoteText": "The night is my veil.",
-    
-    "quoteAuthor": "Evelynn"
-    
+        "quoteText": "Your will, my hands.",
+        "quoteAuthor": "Lee Sin"
     },
-    
     {
-    
-    "quoteText": "The cycle of life and death continue, we will live, they will die.",
-    
-    "quoteAuthor": "Nasus"
-    
+        "quoteText": "I will be the best!",
+        "quoteAuthor": "Wukong"
     },
-    
     {
-    
-    "quoteText": "Let's go, let's go!",
-    
-    "quoteAuthor": "Ryze"
-    
+        "quoteText": "I thought you'd never pick me.",
+        "quoteAuthor": "Amumu"
     },
-    
     {
-    
-    "quoteText": "Ready to set the world on fire? Heheheh...",
-    
-    "quoteAuthor": "Brand"
-    
+        "quoteText": "I will be free.",
+        "quoteAuthor": "Xerath"
     },
-    
     {
-    
-    "quoteText": "Let's get in the fight!",
-    
-    "quoteAuthor": "Rumble"
-    
+        "quoteText": "Captain Teemo on duty!",
+        "quoteAuthor": "Teemo"
     },
-    
     {
-    
-    "quoteText": "Let us hunt those who have fallen to darkness.",
-    
-    "quoteAuthor": "Vayne"
-    
+        "quoteText": "Know that if the tables were turned, I'd show you no mercy.",
+        "quoteAuthor": "Veigar"
     },
-    
     {
-    
-    "quoteText": "Live and die by the blade.",
-    
-    "quoteAuthor": "Talon"
-    
+        "quoteText": "I fight for a brighter tomorrow!",
+        "quoteAuthor": "Jayce"
     },
-    
     {
-    
-    "quoteText": "Behold the might of the Shadow Isles.",
-    
-    "quoteAuthor": "Hecarim"
-    
+        "quoteText": "I fight for a brighter tomorrow!",
+        "quoteAuthor": "Jayce"
     },
-    
     {
-    
-    "quoteText": "Do you feel a chill?",
-    
-    "quoteAuthor": "Karthus"
-    
+        "quoteText": "We'll bring them pain!",
+        "quoteAuthor": "Morgana"
     },
-    
     {
-    
-    "quoteText": "This'll be a slaughter!",
-    
-    "quoteAuthor": "Tryndamere"
-    
+        "quoteText": "Only you can hear me summoner, what masterpiece shall we play today?",
+        "quoteAuthor": "Sona"
     },
-    
     {
-    
-    "quoteText": "Rules are made to be broken... like buildings! Or people!",
-    
-    "quoteAuthor": "Jinx"
-    
+        "quoteText": "I wanna shoot something.",
+        "quoteAuthor": "Tristana"
     },
-    
     {
-    
-    "quoteText": "We will kill your enemies. That will be fun.",
-    
-    "quoteAuthor": "Orianna"
-    
+        "quoteText": "The Black Rose shall bloom once more!",
+        "quoteAuthor": "LeBlanc"
     },
-    
     {
-    
-    "quoteText": "I do it.",
-    
-    "quoteAuthor": "Sion"
-    
+        "quoteText": "The night is my veil.",
+        "quoteAuthor": "Evelynn"
     },
-    
     {
-    
-    "quoteText": "Rock Solid.",
-    
-    "quoteAuthor": "Malphite"
-    
+        "quoteText": "The cycle of life and death continue, we will live, they will die.",
+        "quoteAuthor": "Nasus"
     },
-    
     {
-    
-    "quoteText": "Let's do this!",
-    
-    "quoteAuthor": "Jax"
-    
+        "quoteText": "Let's go, let's go!",
+        "quoteAuthor": "Ryze"
     },
-    
     {
-    
-    "quoteText": "Feel the thorns' embrace.",
-    
-    "quoteAuthor": "Zyra"
-    
+        "quoteText": "Ready to set the world on fire? Heheheh...",
+        "quoteAuthor": "Brand"
     },
-    
     {
-    
-    "quoteText": "A new moon is rising.",
-    
-    "quoteAuthor": "Diana"
-    
+        "quoteText": "Let's get in the fight!",
+        "quoteAuthor": "Rumble"
     },
-    
     {
-    
-    "quoteText": "Eternal life... endless torture.",
-    
-    "quoteAuthor": "Urgot"
-    
+        "quoteText": "Let us hunt those who have fallen to darkness.",
+        "quoteAuthor": "Vayne"
     },
-    
     {
-    
-    "quoteText": "How about a drink?",
-    
-    "quoteAuthor": "Singed"
-    
+        "quoteText": "Live and die by the blade.",
+        "quoteAuthor": "Talon"
     },
-    
     {
-    
-    "quoteText": "Justice takes wing.",
-    
-    "quoteAuthor": "Quinn"
-    
+        "quoteText": "Behold the might of the Shadow Isles.",
+        "quoteAuthor": "Hecarim"
     },
-    
     {
-    
-    "quoteText": "To the Fields of Justice!",
-    
-    "quoteAuthor": "Garen"
-    
+        "quoteText": "Do you feel a chill?",
+        "quoteAuthor": "Karthus"
     },
-    
     {
-    
-    "quoteText": "What delightful agony we shall inflict.",
-    
-    "quoteAuthor": "Thresh"
-    
-    },
-    
-    {
-    
-    "quoteText": "This battle will be my masterpiece.",
-    
-    "quoteAuthor": "Aatrox"
-    
-    },
-    
-    {
-    
-    "quoteText": "Everybody dies. Some just need a little help.",
-    
-    "quoteAuthor": "Lucian"
-    
-    },
-    
-    {
-    
-    "quoteText": "I knew you would do that.",
-    
-    "quoteAuthor": "Zilean"
-    
-    },
-    
-    {
-    
-    "quoteText": "Death is only the beginning.",
-    
-    "quoteAuthor": "Yorick"
-    
-    },
-    
-    {
-    
-    "quoteText": "Valoran will know harmony.",
-    
-    "quoteAuthor": "Poppy"
-    
-    },
-    
-    {
-    
-    "quoteText": "I'm on the case.",
-    
-    "quoteAuthor": "Caitlyn"
-    
-    },
-    
-    {
-    
-    "quoteText": "Don't you find me... beautiful?",
-    
-    "quoteAuthor": "Cassiopeia"
-    
-    },
-    
-    {
-    
-    "quoteText": "As balance dictates.",
-    
-    "quoteAuthor": "Akali"
-    
-    },
-    
-    {
-    
-    "quoteText": "If you're buyin', I'm in!",
-    
-    "quoteAuthor": "Gragas"
-    
-    },
-    
-    {
-    
-    "quoteText": "Always trust your spirit.",
-    
-    "quoteAuthor": "Karma"
-    
-    },
-    
-    {
-    
-    "quoteText": "To the arena!",
-    
-    "quoteAuthor": "Xin Zhao"
-    
-    },
-    
-    {
-    
-    "quoteText": "Punch first. Ask questions while punching.",
-    
-    "quoteAuthor": "Vi"
-    
+        "quoteText": "This'll be a slaughter!",
+        "quoteAuthor": "Tryndamere"
+    },
+    {
+        "quoteText": "Rules are made to be broken... like buildings! Or people!",
+        "quoteAuthor": "Jinx"
+    },
+    {
+        "quoteText": "We will kill your enemies. That will be fun.",
+        "quoteAuthor": "Orianna"
+    },
+    {
+        "quoteText": "I do it.",
+        "quoteAuthor": "Sion"
+    },
+    {
+        "quoteText": "Rock Solid.",
+        "quoteAuthor": "Malphite"
+    },
+    {
+        "quoteText": "Let's do this!",
+        "quoteAuthor": "Jax"
+    },
+    {
+        "quoteText": "Feel the thorns' embrace.",
+        "quoteAuthor": "Zyra"
+    },
+    {
+        "quoteText": "A new moon is rising.",
+        "quoteAuthor": "Diana"
+    },
+    {
+        "quoteText": "Eternal life... endless torture.",
+        "quoteAuthor": "Urgot"
+    },
+    {
+        "quoteText": "How about a drink?",
+        "quoteAuthor": "Singed"
+    },
+    {
+        "quoteText": "Justice takes wing.",
+        "quoteAuthor": "Quinn"
+    },
+    {
+        "quoteText": "To the Fields of Justice!",
+        "quoteAuthor": "Garen"
+    },
+    {
+        "quoteText": "What delightful agony we shall inflict.",
+        "quoteAuthor": "Thresh"
+    },
+    {
+        "quoteText": "This battle will be my masterpiece.",
+        "quoteAuthor": "Aatrox"
+    },
+    {
+        "quoteText": "Everybody dies. Some just need a little help.",
+        "quoteAuthor": "Lucian"
+    },
+    {
+        "quoteText": "I knew you would do that.",
+        "quoteAuthor": "Zilean"
+    },
+    {
+        "quoteText": "Death is only the beginning.",
+        "quoteAuthor": "Yorick"
+    },
+    {
+        "quoteText": "Valoran will know harmony.",
+        "quoteAuthor": "Poppy"
+    },
+    {
+        "quoteText": "I'm on the case.",
+        "quoteAuthor": "Caitlyn"
+    },
+    {
+        "quoteText": "Don't you find me... beautiful?",
+        "quoteAuthor": "Cassiopeia"
+    },
+    {
+        "quoteText": "As balance dictates.",
+        "quoteAuthor": "Akali"
+    },
+    {
+        "quoteText": "If you're buyin', I'm in!",
+        "quoteAuthor": "Gragas"
+    },
+    {
+        "quoteText": "Always trust your spirit.",
+        "quoteAuthor": "Karma"
+    },
+    {
+        "quoteText": "To the arena!",
+        "quoteAuthor": "Xin Zhao"
+    },
+    {
+        "quoteText": "Punch first. Ask questions while punching.",
+        "quoteAuthor": "Vi"
     }
 ]

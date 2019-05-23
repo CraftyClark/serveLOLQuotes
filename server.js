@@ -17,11 +17,12 @@ app.use(function(req, res, next) {
   next()
 })
 
-app.get('/', function(request, response) {
-  response.redirect('https://github.com/lukepeavey/quota')
-})
+// app.get('/', function(request, response) {
+//   response.redirect('https://github.com/lukepeavey/quota')
+// })
 
-app.get('/random', function(request, response) {
+// app.get('/random', function(request, response) {
+app.get('/', function(request, response) {
   let randomQuote = data[random(0, data.length - 1)]
   if (randomQuote) response.json(randomQuote)
 })
