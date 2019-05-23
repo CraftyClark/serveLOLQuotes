@@ -2,7 +2,7 @@
   "name": "quota",
   "version": "0.0.1",
   "description": "Random quote API",
-  "author": "Luke Peavey",
+  "author": "Andrew Clark",
   "private": true,
   "main": "server.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://github.com/lukepeavey/quota"
+    "url": "https://github.com/CraftyClark/serveLOLQuotes"
   },
   "license": "MIT",
   "keywords": [

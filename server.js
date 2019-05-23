@@ -18,7 +18,7 @@ app.use(function(req, res, next) {
 });
 
 app.get('/', function(request, response) {
-  response.redirect('https://github.com/lukepeavey/quota');
+  response.redirect('https://github.com/CraftyClark/serveLOLQuotes');
 });
 
 app.get('/random', function(request, response) {
