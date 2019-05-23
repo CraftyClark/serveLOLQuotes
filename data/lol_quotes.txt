@@ -1,0 +1,118 @@
+'Time to troll!'	Trundle
+'Dead man walkin''	Graves
+'Join the glorious evolution.'	Viktor
+'Only the spider is safe in her web.'	Elise
+'To battle!'	Sivir
+'I'm up to snuff, and gots me an ace machine!'	Corki
+'The guilty shall know agony.'	Varus
+'A guardian is always prepared.'	Galio
+'I do your bidding... for now...'	Maokai
+'The dawn has arrived.'	Leona
+'Tactical decision, summoner!'	Lux
+'On my wings.'	Anivia
+'Oblivion awaits.'	Malzahar
+'You'd wish the world you know to end! Yesssss'	Cho'Gath
+'Fired up and ready to serve.'	Blitzcrank
+'Let the storm follow in my wake.'	Volibear
+'I will bury the world in ice.'	Lissandra
+'The eyes never lie.'	Kennen
+'Let me at 'em!'	Fizz
+'Our rage is beyond your control.'	Udyr
+'Trust nothing but your strength.'	Sejuani
+'I decide what the tide will bring.'	Nami
+'A demonstration of superior judgement.'	Shen
+'Prepare to be boarded!'	Gangplank
+'Into the fray!'	Kayle
+'They are nothing before me.'	Shyvana
+'What is broken CAN be reforged!'	Riven
+'Let's make this fun.'	Warwick
+'ok.'	Rammus
+'How about a magic trick?'	Shaco
+'Let me guide you.'	Soraka
+'As I live, all will die!'	Renekton
+'Your bidding, master.'	Fiddlesticks
+'I shall bring great suffering!'	Mordekaiser
+'This'll be a blast!'	Ziggs
+'They will regret opposing me.'	Darius
+'Nothing can hold me back!'	Alistar
+'My blade is at your service.'	Irelia
+'Mundo!'	Dr. Mundo
+Hint	Answer
+'Welcome to the League of Draven!'	Draven
+'My stinger brings ugly death.'	Skarner
+'More than just precious stones, I bring you an ancient power.'	Taric
+'Oh, what do you want?'	Twitch
+'Change... is good.'	Kha'Zix
+'Pleased to meet you!'	Lulu
+'Lady Luck is smilin'.'	Twisted Fate
+'Indeed, a wise choice.'	Heimerdinger
+'I long for a worthy opponent.'	Fiora
+'Violence solves everything!'	Katarina
+'Time for a true display of skill.'	Ezreal
+'All the world on one arrow.'	Ashe
+'The rivers will run red.'	Vladimir
+'Leave nothing behind!'	Olaf
+'Tonight we hunt!'	Rengar
+'Fortune doesn't favour fools!'	Miss Fortune
+'I was made for this... Literally.'	Zac
+'My blade is yours.'	Master Yi
+'You wanna play, too? It'll be fun.'	Annie
+'The tempest is at your command.'	Janna
+'Don't you trust me?'	Ahri
+'Here we go!'	Nunu
+'THEY ARE PRIVELEDGED TO DIE AT MY FEET!'	Pantheon
+'So much untapped power!'	Syndra
+'Time to feast!'	Kog'Maw
+'Embrace the darkness!'	Nocturne
+'By my will, this shall be finished.'	Jarvan IV
+'They will fear the wilds.'	Nidalee
+'Beware the depths.'	Nautilus
+'The early bird guts the worm.'	Swain
+'The balance of power must be preserved.'	Kassadin
+'The unseen blade is the deadliest.'	Zed
+'Your will, my hands.'	Lee Sin
+'I will be the best!'	Wukong
+'I thought you'd never pick me.'	Amumu
+'I will be free.'	Xerath
+'Captain Teemo on duty!'	Teemo
+'Know that if the tables were turned, I'd show you no mercy.'	Veigar
+'I fight for a brighter tomorrow!'	Jayce
+Hint	Answer
+'We'll bring them pain!'	Morgana
+'Only you can hear me summoner, what masterpiece shall we play today?'	Sona
+'I wanna shoot something.'	Tristana
+'The Black Rose shall bloom once more!'	LeBlanc
+'The night is my veil.'	Evelynn
+'The cycle of life and death continue, we will live, they will die.'	Nasus
+'Let's go, let's go!'	Ryze
+'Ready to set the world on fire? Heheheh...'	Brand
+'Let's get in the fight!'	Rumble
+'Let us hunt those who have fallen to darkness.'	Vayne
+'Live and die by the blade.'	Talon
+'Behold the might of the Shadow Isles.'	Hecarim
+'Do you feel a chill?'	Karthus
+'This'll be a slaughter!'	Tryndamere
+'Rules are made to be broken... like buildings! Or people!'	Jinx
+'We will kill your enemies. That will be fun.'	Orianna
+'I do it.'	Sion
+'Rock Solid.'	Malphite
+'Let's do this!'	Jax
+'Feel the thorns' embrace.'	Zyra
+'A new moon is rising.'	Diana
+'Eternal life... endless torture.'	Urgot
+'How about a drink?'	Singed
+'Justice takes wing.'	Quinn
+'To the Fields of Justice!'	Garen
+'What delightful agony we shall inflict.'	Thresh
+'This battle will be my masterpiece.'	Aatrox
+'Everybody dies. Some just need a little help.'	Lucian
+'I knew you would do that.'	Zilean
+'Death is only the beginning.'	Yorick
+'Valoran will know harmony.'	Poppy
+'I'm on the case.'	Caitlyn
+'Don't you find me... beautiful?'	Cassiopeia
+'As balance dictates.'	Akali
+'If you're buyin', I'm in!'	Gragas
+'Always trust your spirit.'	Karma
+'To the arena!'	Xin Zhao
+'Punch first. Ask questions while punching.'	Vi
