@@ -2,15 +2,15 @@ Quota
 =========================
 _Random quote API_
 
-I built this for a freeCodeCamp project. Anyone is welcome to use it
+I built this for a personal project. Anyone is welcome to use it
 
-- Database with roughly 1500 famous quotes
+- Database consist of one quote for every champion in league of legends
 - Easy to use
 - Allows requests over HTTP or HTTPS
 
 ### Usage
 To get a new random quote, make a request to:
-`https://quota.glitch.me/random`
+`https://serve-lol-quotes-andrewclark.glitch.me/random`
 
 This returns a JSON object in the following format:
 ```
@@ -24,7 +24,7 @@ This returns a JSON object in the following format:
 ##### Javascript Example
 
 ```js
-  fetch('https://quota.glitch.me/random')
+  fetch('https://serve-lol-quotes-andrewclark.glitch.me/random')
   .then(response => response.json())
   .then(data => {
     console.log(`${data.quoteText} -${data.quoteAuthor}`)
@@ -34,7 +34,7 @@ This returns a JSON object in the following format:
 ##### jQuery Example
 
 ```js
-  $.getJSON('https://quota.glitch.me/random'), function(data) {
+  $.getJSON('https://serve-lol-quotes-andrewclark.glitch.me/random'), function(data) {
     console.log(`${data.quoteText} -${data.quoteAuthor}`)
   }
 ```
