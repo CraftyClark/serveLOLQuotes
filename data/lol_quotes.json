@@ -52,8 +52,8 @@
         "quoteAuthor": "Malzahar"
     },
     {
-        "quoteText": "You'd wish the world you know to end! Yesssss'    Cho",
-        "quoteAuthor": "Gath"
+        "quoteText": "You'd wish the world you know to end! Yesssss'",
+        "quoteAuthor": "ChoGath"
     },
     {
         "quoteText": "Fired up and ready to serve.",
@@ -153,12 +153,9 @@
     },
     {
         "quoteText": "Mundo!",
-        "quoteAuthor": "Dr. Mundo"
+        "quoteAuthor": "Dr Mundo"
     },
-    {
-        "quoteText": "Mundo!",
-        "quoteAuthor": "Dr. Mundo"
-    },
+
     {
         "quoteText": "Welcome to the League of Draven!",
         "quoteAuthor": "Draven"
@@ -176,8 +173,8 @@
         "quoteAuthor": "Twitch"
     },
     {
-        "quoteText": "Change... is good.'       Kha",
-        "quoteAuthor": "Zix"
+        "quoteText": "Change... is good.'",
+        "quoteAuthor": "KhaZix"
     },
     {
         "quoteText": "Pleased to meet you!",
@@ -256,8 +253,8 @@
         "quoteAuthor": "Syndra"
     },
     {
-        "quoteText": "Time to feast!'   Kog",
-        "quoteAuthor": "Maw"
+        "quoteText": "Time to feast!'",
+        "quoteAuthor": "KogMaw"
     },
     {
         "quoteText": "Embrace the darkness!",
